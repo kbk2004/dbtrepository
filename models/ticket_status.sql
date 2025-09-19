@@ -1,0 +1,1 @@
+select * From {{ source('s1', 't_tickets_info') }}

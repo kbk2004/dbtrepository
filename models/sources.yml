@@ -7,3 +7,6 @@ sources:
       - name: t_customer
       - name: emp      
       - name: T_SSD
+
+      - name: t_tickets_info      
+
